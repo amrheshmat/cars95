@@ -1,0 +1,10 @@
+/vendor
+/public/storage
+/public/upload
+/public/uploads
+/storage
+Homestead.yaml
+Homestead.json
+.env
+*.env
+

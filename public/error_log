@@ -1,0 +1,21 @@
+[16-May-2018 14:56:38 UTC] PHP Fatal error:  Allowed memory size of 385875968 bytes exhausted (tried to allocate 20480 bytes) in /home/mobacode/public_html/Agarly/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67
+[11-Jul-2018 10:25:56 UTC] PHP Fatal error:  Cannot redeclare App\Product::user_id_hasOne() in /home/mobacode/public_html/Agarly/app/Product.php on line 57
+[19-Nov-2018 15:20:38 UTC] PHP Fatal error:  Allowed memory size of 385875968 bytes exhausted (tried to allocate 20480 bytes) in /home/mobacode/public_html/bo/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67
+[02-Dec-2018 17:15:05 UTC] PHP Fatal error:  Allowed memory size of 385875968 bytes exhausted (tried to allocate 20480 bytes) in /home/mobacode/public_html/bo/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67
+[02-Dec-2018 17:15:06 UTC] PHP Fatal error:  Allowed memory size of 385875968 bytes exhausted (tried to allocate 20480 bytes) in /home/mobacode/public_html/bo/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67
+[09-Dec-2018 14:59:12 UTC] PHP Warning:  Unterminated comment starting line 18 in /home/mobacode/public_html/bo/app/Product.php on line 18
+[09-Dec-2018 14:59:20 UTC] PHP Warning:  Unterminated comment starting line 18 in /home/mobacode/public_html/bo/app/Product.php on line 18
+[09-Dec-2018 14:59:24 UTC] PHP Warning:  Unterminated comment starting line 18 in /home/mobacode/public_html/bo/app/Product.php on line 18
+[09-Dec-2018 14:59:27 UTC] PHP Warning:  Unterminated comment starting line 18 in /home/mobacode/public_html/bo/app/Product.php on line 18
+[09-Dec-2018 14:59:33 UTC] PHP Warning:  Unterminated comment starting line 18 in /home/mobacode/public_html/bo/app/Product.php on line 18
+[09-Dec-2018 14:59:36 UTC] PHP Warning:  Unterminated comment starting line 18 in /home/mobacode/public_html/bo/app/Product.php on line 18
+[09-Dec-2018 14:59:37 UTC] PHP Warning:  Unterminated comment starting line 18 in /home/mobacode/public_html/bo/app/Product.php on line 18
+[09-Dec-2018 14:59:38 UTC] PHP Warning:  Unterminated comment starting line 18 in /home/mobacode/public_html/bo/app/Product.php on line 18
+[11-Dec-2018 17:25:27 UTC] PHP Fatal error:  Allowed memory size of 385875968 bytes exhausted (tried to allocate 20480 bytes) in /home/mobacode/public_html/bo/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67
+[23-Dec-2018 13:16:13 UTC] PHP Fatal error:  Allowed memory size of 385875968 bytes exhausted (tried to allocate 20480 bytes) in /home/mobacode/public_html/bo/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67
+[27-Feb-2019 14:28:08 UTC] PHP Fatal error:  Allowed memory size of 385875968 bytes exhausted (tried to allocate 20480 bytes) in /home/mobacode/public_html/bo/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67
+[05-May-2019 15:07:17 UTC] PHP Fatal error:  Allowed memory size of 385875968 bytes exhausted (tried to allocate 20480 bytes) in /home/mobacode/public_html/bo/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67
+[05-May-2019 15:07:19 UTC] PHP Fatal error:  Allowed memory size of 385875968 bytes exhausted (tried to allocate 20480 bytes) in /home/mobacode/public_html/bo/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67
+[05-May-2019 15:07:22 UTC] PHP Fatal error:  Allowed memory size of 385875968 bytes exhausted (tried to allocate 20480 bytes) in /home/mobacode/public_html/bo/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67
+[23-Jun-2019 14:10:51 UTC] PHP Fatal error:  Allowed memory size of 385875968 bytes exhausted (tried to allocate 20480 bytes) in /home/mobacode/public_html/bo/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67
+[23-Jun-2019 14:10:53 UTC] PHP Fatal error:  Allowed memory size of 385875968 bytes exhausted (tried to allocate 20480 bytes) in /home/mobacode/public_html/bo/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67

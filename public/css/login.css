@@ -1,0 +1,333 @@
+
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
+
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
+.preloader {
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  position: fixed;
+  z-index: 99999;
+  background: #fff; }
+  .preloader .cssload-speeding-wheel {
+    position: absolute;
+    top: calc(50% - 3.5px);
+    left: calc(50% - 3.5px); }
+
+
+* {
+  outline: none; }
+
+body {
+  background: #fff;
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  overflow-x: hidden;
+  color: #67757c;
+  font-weight: 300; }
+
+html {
+  position: relative;
+  min-height: 100%;
+  background: #ffffff; }
+
+a:hover,
+a:focus {
+  text-decoration: none; }
+
+a.link {
+  color: #455a64; }
+  a.link:hover, a.link:focus {
+    color: #1976d2; }
+
+.img-responsive {
+  width: 100%;
+  height: auto;
+  display: inline-block; }
+
+.img-rounded {
+  border-radius: 4px; }
+
+html body .mdi:before,
+html body .mdi-set {
+  line-height: initial; }
+
+/*******************
+Headings
+*******************/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #455a64;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400; }
+
+h1 {
+  line-height: 40px;
+  font-size: 36px; }
+
+h2 {
+  line-height: 36px;
+  font-size: 24px; }
+
+h3 {
+  line-height: 30px;
+  font-size: 21px; }
+
+h4 {
+  line-height: 22px;
+  font-size: 18px; }
+
+h5 {
+  line-height: 18px;
+  font-size: 16px;
+  font-weight: 400; }
+
+h6 {
+  line-height: 16px;
+  font-size: 14px;
+  font-weight: 400; }
+
+.display-5 {
+  font-size: 3rem; }
+
+.display-6 {
+  font-size: 36px; }
+
+.box {
+  border-radius: 4px;
+  padding: 10px; }
+
+html body .dl {
+  display: inline-block; }
+
+html body .db {
+  display: block; }
+
+.no-wrap td,
+.no-wrap th {
+  white-space: nowrap; }
+
+/*******************
+Blockquote
+*******************/
+html body blockquote {
+  border-left: 5px solid #1976d2;
+  border: 1px solid rgba(120, 130, 140, 0.13);
+  padding: 15px; }
+
+.clear {
+  clear: both; }
+
+ol li {
+  margin: 5px 0; }
+
+/*******************
+Paddings
+*******************/
+html body .p-0 {
+  padding: 0px; }
+
+html body .p-10 {
+  padding: 10px; }
+
+html body .p-20 {
+  padding: 20px; }
+
+html body .p-30 {
+  padding: 30px; }
+
+html body .p-l-0 {
+  padding-left: 0px; }
+
+html body .p-l-10 {
+  padding-left: 10px; }
+
+html body .p-l-20 {
+  padding-left: 20px; }
+
+html body .p-r-0 {
+  padding-right: 0px; }
+
+html body .p-r-10 {
+  padding-right: 10px; }
+
+html body .p-r-20 {
+  padding-right: 20px; }
+
+html body .p-r-30 {
+  padding-right: 30px; }
+
+html body .p-r-40 {
+  padding-right: 40px; }
+
+html body .p-t-0 {
+  padding-top: 0px; }
+
+html body .p-t-10 {
+  padding-top: 10px; }
+
+html body .p-t-20 {
+  padding-top: 20px; }
+
+html body .p-t-30 {
+  padding-top: 30px; }
+
+html body .p-b-0 {
+  padding-bottom: 0px; }
+
+html body .p-b-5 {
+  padding-bottom: 5px; }
+
+html body .p-b-10 {
+  padding-bottom: 10px; }
+
+html body .p-b-20 {
+  padding-bottom: 20px; }
+
+html body .p-b-30 {
+  padding-bottom: 30px; }
+
+html body .p-b-40 {
+  padding-bottom: 40px; }
+
+/*******************
+Margin
+*******************/
+html body .m-0 {
+  margin: 0px; }
+
+html body .m-l-5 {
+  margin-left: 5px; }
+
+html body .m-l-10 {
+  margin-left: 10px; }
+
+html body .m-l-15 {
+  margin-left: 15px; }
+
+html body .m-l-20 {
+  margin-left: 20px; }
+
+html body .m-l-30 {
+  margin-left: 30px; }
+
+html body .m-l-40 {
+  margin-left: 40px; }
+
+html body .m-r-5 {
+  margin-right: 5px; }
+
+html body .m-r-10 {
+  margin-right: 10px; }
+
+html body .m-r-15 {
+  margin-right: 15px; }
+
+html body .m-r-20 {
+  margin-right: 20px; }
+
+html body .m-r-30 {
+  margin-right: 30px; }
+
+html body .m-r-40 {
+  margin-right: 40px; }
+
+html body .m-t-0 {
+  margin-top: 0px; }
+
+html body .m-t-5 {
+  margin-top: 5px; }
+
+html body .m-t-10 {
+  margin-top: 10px; }
+
+html body .m-t-15 {
+  margin-top: 15px; }
+
+html body .m-t-20 {
+  margin-top: 20px; }
+
+html body .m-t-30 {
+  margin-top: 30px; }
+
+html body .m-t-40 {
+  margin-top: 40px; }
+
+html body .m-b-0 {
+  margin-bottom: 0px; }
+
+html body .m-b-5 {
+  margin-bottom: 5px; }
+
+html body .m-b-10 {
+  margin-bottom: 10px; }
+
+html body .m-b-15 {
+  margin-bottom: 15px; }
+
+html body .m-b-20 {
+  margin-bottom: 20px; }
+
+html body .m-b-30 {
+  margin-bottom: 30px; }
+
+html body .m-b-40 {
+  margin-bottom: 40px; }
+
+/*******************
+vertical alignment
+*******************/
+html body .vt {
+  vertical-align: top; }
+
+html body .vm {
+  vertical-align: middle; }
+
+html body .vb {
+  vertical-align: bottom; }
+
+/*******************
+Opacity
+*******************/
+.op-5 {
+  opacity: 0.5; }
+
+/*******************
+Login register and recover password Page
+******************/
+.login-register {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 100%;
+  width: 100%;
+  padding: 5% 0;
+  position: fixed; }
+
+.login-box {
+  width: 400px;
+  margin: 0 auto; }
+  .login-box .footer {
+    width: 100%;
+    left: 0px;
+    right: 0px; }
+  .login-box .social {
+    display: block;
+    margin-bottom: 30px; }
+
+#recoverform {
+  display: none; }
+
+.login-sidebar {
+  padding: 0px;
+  margin-top: 0px; }
+  .login-sidebar .login-box {
+    right: 0px;
+    position: absolute;
+    height: 100%; }
+
